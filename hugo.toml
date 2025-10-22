@@ -1,4 +1,4 @@
-baseURL = "https://mishowhd.github.io/myportfolio/"
+baseURL = "https://mishowhd.github.io/portfolio/"
 title = "Portfolio"
 theme = "hugo-coder"
 languageCode = "en"
