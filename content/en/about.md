@@ -4,26 +4,31 @@ draft = false
 title = 'About'
 +++
 
-Hi! 👋 I'm **Giacomo Di Clerico**, a passionate Computer Engineering student at **Politecnico di Milano**.
+Hi! I'm **Giacomo Di Clerico**, a passionate **Computer Engineering student** at **Politecnico di Milano**.
 
-I’m deeply interested in **Linux** and love experimenting within my own **homelab**, designing and managing self-hosted environments where I explore **networking**, **server administration**, and **virtualization**.  
+I’m fascinated by the world of **Linux**, **networking**, and **cybersecurity** areas where technology meets creativity and precision. In my spare time, I enjoy experimenting in my **homelab**, where I design and manage self-hosted environments to explore **virtualization**, **automation**, and **system administration**.
 
-Fascinated by **cybersecurity**, I dedicate my time to learning about **threat analysis**, **system hardening**, and building **secure infrastructures** to protect critical data.
+I’m particularly drawn to **digital security**, focusing on **threat analysis**, **system hardening**, and building **resilient infrastructures** to protect data and privacy.
 
-I’m always curious and motivated to **learn**, **experiment**, and **connect** with fellow tech enthusiasts who share the same drive for open-source technologies and digital security.
+My goal is to constantly **learn**, **create**, and **share** knowledge, contributing to the open-source community and connecting with people who share the same enthusiasm for technology.
 
 ---
 
-### 🔧 Interests
+## 🔧 Technical Interests
 
-- Linux systems & automation  
+- Linux systems & shell scripting  
 - Networking and virtualization  
 - Cybersecurity & ethical hacking  
-- Open-source software  
-- Homelab experimentation  
+- Open-source technologies  
+- Homelab design & automation  
 
 ---
 
-### 🌐 Let’s connect
+## 🌐 Get in Touch
 
-If you’d like to discuss tech, security, or self-hosting — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/giacomodiclerico/) or check out my work on [GitHub](https://github.com/MishowHD).
+💼 [**LinkedIn**](https://www.linkedin.com/in/giacomodiclerico/)  
+✉️ [**info@giacomodiclerico.com**](mailto:info@giacomodiclerico.com)
+
+---
+
+_Always learning. Always building. Always exploring._
