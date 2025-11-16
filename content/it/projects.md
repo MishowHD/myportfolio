@@ -1,9 +1,14 @@
 +++
 date = '2025-10-19T21:45:44+02:00'
 draft = false
-title = '🚀 Progetti'
+title = 'Progetti'
 +++
 
-I miei progetti sono sempre in evoluzione…  
+Qui puoi trovare una selezione dei progetti tecnici a cui ho lavorato:
 
-> Da fare ancora haha 😄
+## Homelab
+
+Un ambiente completamente self-hosted basato su Proxmox VE  
+[Leggi di più →](/it/projects/homelab/)
+
+I miei progetti sono in continua evoluzione… > Arriverà presto 😄
